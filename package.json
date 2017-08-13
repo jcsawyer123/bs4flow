@@ -10,7 +10,7 @@
   "author": "Joshua Sawyer",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha.6",
+    "bootstrap": "4.0.0-alpha.6",
     "font-awesome": "^4.7.0"
   },
   "devDependencies": {
